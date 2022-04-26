@@ -1,0 +1,44 @@
+{
+    "name": "Omni Mosquitoes #2735",
+    "description": "We drink TRX hash, not blood. OmniChain cc0 project",
+    "image": "ipfs://QmepLoCMMGsDF1mPGqWEBx3pxthCETzxqtD8whFCySoFh7/2735.png",
+    "attributes": [
+        {
+            "trait_type": "Face Wear",
+            "value": "Eye Mask Blue"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Hats",
+            "value": "Purple Cap"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Legs",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Proboscis",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Antenna",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Wings",
+            "value": "Bat"
+        }
+    ],
+    "current-chain": "ETH"
+}

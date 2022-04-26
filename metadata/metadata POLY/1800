@@ -1,0 +1,12 @@
+{
+    "name": "Omni Mosquitoes #1800",
+    "description": "We drink TRX hash, not blood. OmniChain cc0 project",
+    "image": "ipfs://QmepLoCMMGsDF1mPGqWEBx3pxthCETzxqtD8whFCySoFh7/1800.png",
+    "attributes": [
+        {
+            "trait_type": "1/1",
+            "value": "ARB"
+        }
+    ],
+    "current-chain": "Poly"
+}
